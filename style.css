@@ -2,13 +2,16 @@
 	border: 0px solid #000000;
 	border-radius: 0px;
 	box-shadow: 0px 2px black;
-	background-color: #EEEEEE;
-	padding : 100px 0px;
+	/*background-color: #D0D0D0;*/
+	background-image: url("http://blogs.arts.ac.uk/london-college-of-communication/files/2014/02/film-practice.jpg");
+	background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-position: center; 
+	padding : 50px 0px;
 	margin-bottom: 10px;
-	
-
+	color: #FFFFFF;
+	text-shadow: #505050 1px 1px, #505050 -1px 1px, #505050 -1px -1px, #505050 1px -1px;
 }
-
 #header h1 {
 	font-family: "Baloo Bhaina", cursive;
 	font-size: 10em;
@@ -40,11 +43,13 @@
     height: 450px;
     padding : 100px 100px;
 	color:white;
+	font-family: "Montserrat", sans-serif;
 }
 
 .button{
 	margin-bottom: auto;
-	margin-top: 6em;	
+	margin-top: 4em;
+	margin-left: -4em;	
 }
 
 #list {	
@@ -58,7 +63,9 @@
 	color : rgb(255,255,255);
 }
 #list p {
-	font-size: 40px;
+	font-size: 2.5em;
+	margin-left: 1em;
+	margin-right: -1.5em;
 }
 
 #borrow {
@@ -66,13 +73,16 @@
 }
 #borrow a {
 	color : rgb(240,240,240);
-	font-size: 80px ;
+	font-size: 40px ;
+	margin-left: 1em;
 }
 #borrow a:hover {
 	color : rgb(255,255,255);
 }
 #borrow p {
 	font-size: 40px;
+	margin-left: -1.6em;
+	margin-right: -2em;
 }
 
 #add {
@@ -104,5 +114,5 @@
 }
 
 #list-symbol {
-	font-size: 100px;
+	font-size: 2em;
 }
