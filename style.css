@@ -69,6 +69,7 @@ body {
 }
 #list a:hover {
 	color : rgb(255,255,255);
+	text-shadow: #505050 0px 0px, #505050 0px 0px, #505050 0px 0px, #505050 0px 0px;
 }
 #list p {
 	font-size: 2.5em;
@@ -88,6 +89,7 @@ body {
 }
 #borrow a:hover {
 	color : rgb(255,255,255);
+	text-shadow: #505050 0px 0px, #505050 0px 0px, #505050 0px 0px, #505050 0px 0px;
 }
 #lama {
 	font-size: 40px;
@@ -101,12 +103,13 @@ body {
 #add a {
 	color : rgb(240,240,240);
 	font-size: 80px ;
-	padding-top: 100px;
+	padding-top: 0px;
 	margin-left: 0.3em;
 	text-shadow: #505050 2px 1px, #505050 -2px 1px, #505050 -2px -1px, #505050 2px -1px;
 }
 #add a:hover {
 	color : rgb(255,255,255);
+	text-shadow: #505050 0px 0px, #505050 0px 0px, #505050 0px 0px, #505050 0px 0px;
 }
 #add p {
 	font-size: 40px;
@@ -122,12 +125,17 @@ body {
 	margin-left: 1em;
 	margin-top: -1em;
 	text-shadow: #505050 2px 1px, #505050 -2px 1px, #505050 -2px -1px, #505050 2px -1px;
+
+
 }
 #suscribe a:hover {
 	color : rgb(255,255,255);
 }
 #suscribe p {
-	font-size: 35px;
+	font-size: 30px;
+}
+#suscribe h2 {
+	margin-top: 2em;
 }
 
 #ask{
@@ -160,7 +168,7 @@ body {
 
 #inform-icon {
 	font-size : 2em;
-	margin-top: -2em;
+	margin-top: -0.1em;
 	margin-left: -0.2em;
 }
 
