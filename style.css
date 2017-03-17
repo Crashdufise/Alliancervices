@@ -1,0 +1,110 @@
+#header {
+	border: 0px solid #000000;
+	border-radius: 0px;
+	box-shadow: 0px 2px black;
+	background-color: #EEEEEE;
+	padding : 100px 0px;
+	margin-bottom: 10px;
+	
+
+}
+
+#header h1 {
+	font-family: "Baloo Bhaina", cursive;
+	font-size: 100px;
+}
+
+#header p {
+	font-family: "Open Sans", sans-serif;
+	font-size: 25px;
+}
+
+#logos{
+	margin-left: auto;
+    margin-right: auto;
+    width: 305px
+
+}
+	
+
+#overall {
+	margin: 25px 25px 25px 25px;
+}
+
+.tile {
+	border-radius: 40px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    width: 450px;
+    height: 450px;
+    padding : 100px 100px;
+/*	padding : 100px 100px;
+	margin: 16px 0px;*/
+	color:white;
+}
+
+.button{
+	margin-bottom: auto;
+	margin-top: auto;	
+}
+
+#list {	
+	background-color: #00A0D0;
+}
+#list a {
+	color : rgb(240,240,240);
+	font-size: 80px ;
+}
+#list a:hover {
+	color : rgb(255,255,255);
+}
+#list p {
+	font-size: 40px;
+}
+
+#borrow {
+	background-color: #002B58;
+}
+#borrow a {
+	color : rgb(240,240,240);
+	font-size: 80px ;
+}
+#borrow a:hover {
+	color : rgb(255,255,255);
+}
+#borrow p {
+	font-size: 40px;
+}
+
+#add {
+	background-color: #50AF2F;
+}
+#add a {
+	color : rgb(240,240,240);
+	font-size: 80px ;
+}
+#add a:hover {
+	color : rgb(255,255,255);
+}
+#add p {
+	font-size: 40px;
+}
+
+#suscribe {
+	background-color: #A59C96;
+}
+#suscribe a {
+	color : rgb(240,240,240);
+	font-size: 80px ;
+}
+#suscribe a:hover {
+	color : rgb(255,255,255);
+}
+#suscribe p {
+	font-size: 40px;
+}
+
+#list-symbol {
+	font-size: 100px;
+}
