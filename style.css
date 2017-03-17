@@ -19,8 +19,13 @@ body {
 }
 #header h1 {
 	font-family: "Baloo Bhaina", cursive;
-	font-size: 10em;
+	font-size: 6em;
 }
+#header h3 {
+	font-family: "Baloo Bhaina", cursive;
+	font-size: 4em;
+}
+
 
 #header p {
 	font-family: "Open Sans", sans-serif;
