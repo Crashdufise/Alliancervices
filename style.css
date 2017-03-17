@@ -138,6 +138,9 @@ body {
 }
 #suscribe a:hover {
 	color : rgb(255,255,255);
+	margin-bottom: 0.5em;
+	font-size: 1em;
+	text-shadow: #505050 0px 0px, #505050 0px 0px, #505050 0px 0px, #505050 0px 0px;
 }
 #suscribe p {
 	font-size: 30px;
@@ -159,6 +162,14 @@ body {
 	margin-bottom: 0.5em;
 	font-size: 5em;
 	text-shadow: #505050 2px 1px, #505050 -2px 1px, #505050 -2px -1px, #505050 2px -1px;
+}
+
+#submit a:hover{
+	color : rgb(255,255,255);
+	margin-left: 0.7em;
+	margin-bottom: 0.5em;
+	font-size: 5em;
+	text-shadow: #505050 0px 0px, #505050 0px 0px, #505050 0px 0px, #505050 0px 0px;
 }
 
 #list-icon {
