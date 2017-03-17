@@ -11,12 +11,12 @@
 
 #header h1 {
 	font-family: "Baloo Bhaina", cursive;
-	font-size: 100px;
+	font-size: 10em;
 }
 
 #header p {
 	font-family: "Open Sans", sans-serif;
-	font-size: 25px;
+	font-size: 3em;
 }
 
 #logos{
@@ -39,14 +39,12 @@
     width: 450px;
     height: 450px;
     padding : 100px 100px;
-/*	padding : 100px 100px;
-	margin: 16px 0px;*/
 	color:white;
 }
 
 .button{
 	margin-bottom: auto;
-	margin-top: auto;	
+	margin-top: 6em;	
 }
 
 #list {	
